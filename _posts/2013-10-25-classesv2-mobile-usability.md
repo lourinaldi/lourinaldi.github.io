@@ -7,10 +7,10 @@ tags: []
 ---
 {% include JB/setup %}
 
-# Classes*v2 Mobile Usability
+# Classes\*v2 Mobile Usability
 ### Case Study
 
-In January 2010, the [CMI2](http://cmii.yale.edu) conducted a survey of mobile devices used to access Classes\*v2. The results of this survey and a series of related discussions prompted further development, and in 2011 the Classes*v2 team completed an alpha version of a mobile web interface. A decision was made to open it up to a select group of pilot participants during the Spring 2012 semester. Our goal was to gather student and faculty feedback to inform ongoing development efforts. With no formal usability training, but plenty of gritty do-it-yourself determination, the team set about conducting a large-scale usability study. 
+In January 2010, the [CMI2](http://cmii.yale.edu) conducted a survey of mobile devices used to access Classes\*v2. The results of this survey and a series of related discussions prompted further development, and in 2011 the Classes\*v2 team completed an alpha version of a mobile web interface. A decision was made to open it up to a select group of pilot participants during the Spring 2012 semester. Our goal was to gather student and faculty feedback to inform ongoing development efforts. With no formal usability training, but plenty of gritty do-it-yourself determination, the team set about conducting a large-scale usability study. 
 
 The process of selecting and gathering feedback from the pilot participants was a multi-phased approach:
 
@@ -25,13 +25,13 @@ Upon logging into Classes\*v2, a message invited interested users to apply to be
 
 ## 2. Selection of pilot participants
 
-Pilot applications simply required the user's identity as well as which Classes*v2 tools they used regularly. Since the alpha version of the mobile web interface only worked with some tools, the team wanted to ensure a good fit between these parameters and the usage habits of potential pilot participants.
+Pilot applications simply required the user's identity as well as which Classes\*v2 tools they used regularly. Since the alpha version of the mobile web interface only worked with some tools, the team wanted to ensure a good fit between these parameters and the usage habits of potential pilot participants.
 
 ## 3. The call to action
 
 We sent accepted pilot participants an introductory email:
 
-_"Thanks for your interest in the Classes\*v2 mobile pilot.  As a first step in optimizing Classes*v2 for mobile devices, we invite your feedback on an alpha release, which includes views of several key tools._
+_"Thanks for your interest in the Classes\*v2 mobile pilot.  As a first step in optimizing Classes\*v2 for mobile devices, we invite your feedback on an alpha release, which includes views of several key tools._
  
 _To access the mobile view, please visit https://the.alpha.url_
  
@@ -43,7 +43,7 @@ _We appreciate your participation in the alpha pilot and look forward to your fe
 
 After the month-long pilot period ended, we sent participants a survey about their experience. __Out of 648 participants, 220 (34%) responded to the survey.__
 
-_"Thank you for your participation in the pilot of the Classes*v2 mobile alpha. Please take a few minutes to complete a quick survey on your experience with the pilot. We're grateful for the feedback, and confident that it will help us further develop and improve the interface."_
+_"Thank you for your participation in the pilot of the Classes\*v2 mobile alpha. Please take a few minutes to complete a quick survey on your experience with the pilot. We're grateful for the feedback, and confident that it will help us further develop and improve the interface."_
 
 - [Survey demo](http://yale.qualtrics.com/SE/?SID=SV_eRj4tTXxWw9ojIM) (password = cmi2)
 
