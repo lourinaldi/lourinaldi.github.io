@@ -60,7 +60,7 @@ Here are the results of the survey, if you're curious. Included are some lessons
 - 57% decrease in the mobile bounce rate (a good thing!)
 - A focus group with student interns from the Instructional Technology Group to further refine the feedback we received
 - [Coverage in the Yale Daily News](http://yaledailynews.com/blog/2012/02/08/classesv2-site-extends-to-smartphones/)
-- Users of phone-sized devices are now automatically redirected to the mobile web interface when logging into Classes*v2.
+- Users of phone-sized devices are now automatically redirected to the mobile web interface when logging into Classes\*v2.
 
 # Lingering Questions
 
