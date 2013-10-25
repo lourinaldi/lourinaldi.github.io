@@ -21,7 +21,7 @@ Upon logging into Classes\*v2, a message invited interested users to apply to be
 - Some sample language we used:
 	- _"Help us pilot a new mobile interface for Classes\*v2!"_
 	- _"Got a mobile device? Help us pilot a new mobile interface for Classes\*v2!"_
-	- _"The Classes*v2 team needs your help to pilot a new mobile interface!"_
+	- _"The Classes\*v2 team needs your help to pilot a new mobile interface!"_
 
 ## 2. Selection of pilot participants
 
