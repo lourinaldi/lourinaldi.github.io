@@ -17,7 +17,7 @@ The process of selecting and gathering feedback from the pilot participants was 
 
 Upon logging into Classes\*v2, a message invited interested users to apply to be part of the pilot. 
 		
-- Some sample language we used:
+- Sample language we used:
 	- _"Help us pilot a new mobile interface for Classes\*v2!"_
 	- _"Got a mobile device? Help us pilot a new mobile interface for Classes\*v2!"_
 	- _"The Classes\*v2 team needs your help to pilot a new mobile interface!"_
