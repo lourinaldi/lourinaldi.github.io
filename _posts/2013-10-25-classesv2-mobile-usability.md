@@ -52,7 +52,7 @@ Here are the [results of the survey](https://yale.box.com/s/04hwjb4fcdb0xcbi0vn2
 
 # Outcomes
 
-- Well over 500% mobile activity increase since the pilot began.
+- Well over 500% mobile activity increase.
 - Over 300% increase in pages per visit during mobile sessions.
 - Over 300% increase in average time on site during mobile sessions (from roughly 20 seconds to about 90)
 - 25% increase in new mobile visitors
