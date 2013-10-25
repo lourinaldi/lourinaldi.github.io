@@ -7,8 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-# Classes\*v2 Mobile Usability
-### Case Study
+# Case Study
 
 In January 2010, the [CMI2](http://cmii.yale.edu) conducted a survey of mobile devices used to access Classes\*v2. The results of this survey and a series of related discussions prompted further development, and in 2011 the Classes\*v2 team completed an alpha version of a mobile web interface. A decision was made to open it up to a select group of pilot participants during the Spring 2012 semester. Our goal was to gather student and faculty feedback to inform ongoing development efforts. With no formal usability training, but plenty of gritty do-it-yourself determination, the team set about conducting a large-scale usability study. 
 
