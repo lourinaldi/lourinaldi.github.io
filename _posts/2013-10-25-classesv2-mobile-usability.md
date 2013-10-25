@@ -9,7 +9,7 @@ tags: []
 
 # Case Study
 
-In January 2010, the [CMI2](http://cmii.yale.edu) conducted a survey of mobile devices used to access Classes\*v2. The results of this survey and a series of related discussions prompted further development, and in 2011 the Classes\*v2 team completed an alpha version of a mobile web interface. A decision was made to open it up to a select group of pilot participants during the Spring 2012 semester. Our goal was to gather student and faculty feedback to inform ongoing development efforts. With no formal usability training, but plenty of gritty do-it-yourself determination, the team set about conducting a large-scale usability study. 
+In January 2010, the [CMI2](http://cmii.yale.edu) conducted a survey of mobile devices used to access Classes\*v2. The results of this survey and a [series of related discussions](https://yale.box.com/s/vz49cp2oi6oeqah3zhda) prompted further development, and in 2011 the Classes\*v2 team completed an alpha version of a mobile web interface. A decision was made to open it up to a select group of pilot participants during the Spring 2012 semester. Our goal was to gather student and faculty feedback to inform ongoing development efforts. With no formal usability training, but plenty of gritty do-it-yourself determination, the team set about conducting a large-scale usability study. 
 
 The process of selecting and gathering feedback from the pilot participants was a multi-phased approach:
 
@@ -48,7 +48,7 @@ _"Thank you for your participation in the pilot of the Classes\*v2 mobile alpha.
 
 (The final survey was individualized for tracking responses.)
 
-Here are the results of the survey, if you're curious. Included are some lessons learned and signposts that we used to prioritize development efforts. 
+Here are the [results of the survey](https://yale.box.com/s/04hwjb4fcdb0xcbi0vn2), if you're curious. Included are some lessons learned and signposts that we used to prioritize development efforts. 
 
 # Outcomes
 
