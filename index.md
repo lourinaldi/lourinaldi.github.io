@@ -1,8 +1,7 @@
 ---
-layout: page
 title: "Classes*v2 Mobile Usability"
-tagline: 
 ---
+
 {% include JB/setup %}
 
 # Case Study
