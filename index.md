@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Classes*v2 Mobile Usability"
-tagline: Yale Unconference - November 2013
+tagline: 
 ---
 {% include JB/setup %}
 
